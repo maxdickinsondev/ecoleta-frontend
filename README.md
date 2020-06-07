@@ -12,4 +12,5 @@
 - React-Icons
 - React-Dropzone
 - Axios
+- API do IBGE
 - Leaflet
